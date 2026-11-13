@@ -1,0 +1,5 @@
+*.o
+*.bin
+*.pe
+Sashix.img
+.vscode/
